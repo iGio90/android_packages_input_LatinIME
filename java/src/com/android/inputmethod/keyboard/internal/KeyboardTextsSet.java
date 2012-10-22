@@ -267,7 +267,7 @@ public final class KeyboardTextsSet {
         // U+2020: "†" DAGGER
         // U+2021: "‡" DOUBLE DAGGER
         // U+2605: "★" BLACK STAR
-        /* 50 */ "\u2020,\u2021,\u2605",
+	/* 50 */ "\u2020,\u2021,\u2605",
         // U+266A: "♪" EIGHTH NOTE
         // U+2665: "♥" BLACK HEART SUIT
         // U+2660: "♠" BLACK SPADE SUIT
